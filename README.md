@@ -1,1 +1,1 @@
-# UAS-kecerdasan-bsnis-visualisasi-data
+# UAS-kecerdasan-bisnis-visualisasi-data
